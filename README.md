@@ -2,7 +2,7 @@
 
 Ejercicio 02 del curso (DPPI 2026), sobre visión artificial y representación. La idea era tomar una sola cámara y usarla para armar dos maneras completamente distintas de "ver" lo mismo.
 
-**Demo:** https://stmvrphy.github.io/dos-realidades/
+**Demo:** [https://stmvrphy.github.io/dos-realidades/](https://stmvrphy.github.io/T03-dos-realidades/)
 **Repo:** https://github.com/Stmvrphy/dos-realidades
 
 ## De qué se trata
